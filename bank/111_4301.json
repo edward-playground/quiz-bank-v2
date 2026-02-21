@@ -28,9 +28,16 @@
         "text": "公司債受託人在職務範圍內為公司負責人"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -58,9 +65,16 @@
         "text": "公司行使改派權時應得B公司同意後，改派始生效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -92,9 +106,16 @@
         "text": "若因A公司資金短缺、亟需資金援助，然僅甲、乙、丙同意增資，則A公司仍可為增資行為"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -126,9 +147,16 @@
         "text": "經董事會決議，可以電子方式通知"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -160,9 +188,16 @@
         "text": "②③"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -194,9 +229,16 @@
         "text": "丙逾越見票之提示期限，故丙對甲喪失票據權利"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -224,9 +266,16 @@
         "text": "A公司依規定提撥向外公開發行時，同次發行由公司員工承購之價格，應與向外公開發行之價格相同"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -258,9 +307,16 @@
         "text": "應設置獨立董事"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -288,9 +344,16 @@
         "text": "若A公司未於收購期間完成預定收購數量，除有正當理由並經主管機關核准者外，A公司於1年內不得再對B公司進行公開收購"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -318,9 +381,16 @@
         "text": "A公司進行庫藏股買回，A公司之關係企業或董事、監察人、經理人、持有該公司股份超過股份總額百分之十之股東所持有之股份，於該公司買回之期間內不得賣出"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -352,9 +422,16 @@
         "text": "證券商之董事、監察人、股東或受僱人不得為公司制證券交易所之經理人"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -379,16 +456,56 @@
       },
       {
         "choice_id": "c4",
-        "text": "45日 45股票上櫃之B股份有限公司（下稱B公司）董事甲，知悉足以影響B公司股價之消息，於該消息公開前，以每股50元買進該公司股票10,000股，於消息公開後翌日，以每股65元賣出5,000股，其餘5,000股迄今持有，該消息公開後10個營業日，B公司股價平均收盤價為80元。若甲買賣B公司 股票之行為遭法院認定為內線交易，若不計算稅與交易手續費，依最高法院大法庭之見解，甲從事內線交易之犯罪所得為何？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "75,000元"
+        "text": "45日"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-045",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "股票上櫃之B股份有限公司（下稱B公司）董事甲，知悉足以影響B公司股價之消息，於該消息公開前，以每股50元買進該公司股票10,000股，於消息公開後翌日，以每股65元賣出5,000股，其餘5,000股迄今持有，該消息公開後10個營業日，B公司股價平均收盤價為80元。若甲買賣B公司 股票之行為遭法院認定為內線交易，若不計算稅與交易手續費，依最高法院大法庭之見解，甲從事內線交易之犯罪所得為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "75,000"
+      },
+      {
+        "choice_id": "c2",
+        "text": "150,000"
+      },
+      {
+        "choice_id": "c3",
+        "text": "225,000"
+      },
+      {
+        "choice_id": "c4",
+        "text": "300,000"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -416,9 +533,16 @@
         "text": "misrepresentation"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -446,9 +570,16 @@
         "text": "devolution of property"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -476,9 +607,16 @@
         "text": "duty of good deed"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -506,9 +644,16 @@
         "text": "concurring"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -536,9 +681,16 @@
         "text": "under seal"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -546,7 +698,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 61,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "Sean submitted and Rene accepted a bid to supply approximately 4,000 tons of trap rock for an airport at a unit price. The parties executed a standard form of “Invitation, Bid, and Acceptance (Short From Contract)” supplied by Rene, including typed terms “to be delivered to project as required,” “delivery to start immediately,” and “cancellation by Rene may be effected at any time.” However,   requires that Rene orders and accepts the rock within a reasonable time unless Rene has given Sean a notice of intent to cancel.",
     "choices": [
       {
@@ -566,9 +718,16 @@
         "text": "good will"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -576,7 +735,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 62,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "Securities law intervenes in corporate governance in several ways. From the example of Taiwan’s securities law, which of the following does not reflect this intervention?",
     "choices": [
       {
@@ -596,9 +755,16 @@
         "text": "When issuing new stock, participating underwriters need to have licenses, meet strict qualifications, and cannot be bypassed."
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -606,7 +772,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 63,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "is a public offer to stockholders of a listed company to exchange their shares for cash or securities bypassing the centralized securities exchange market or the over-the-counter market.",
     "choices": [
       {
@@ -626,9 +792,16 @@
         "text": "Proxy solicitation"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -636,7 +809,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 64,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "Adoption of criminal statutes requiring consideration of   impact statements during the sentencing stage aims to provide various information about the crime with the court.",
     "choices": [
       {
@@ -656,9 +829,16 @@
         "text": "vice"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -666,7 +846,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 65,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "could be awarded in addition to actual damages when the defendant acted with recklessness, malice, or deceit.",
     "choices": [
       {
@@ -686,9 +866,16 @@
         "text": "Consequential damages"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -696,7 +883,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 66,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "The 1943 decision, West Virginia State Board of Education v. Barnette,   a law compelling public school students to salute the flag. Justice Jackson wrote that“[I]f there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion or other matters of opinion, or force citizens to confess by word or act their faith therein.”",
     "choices": [
       {
@@ -716,9 +903,16 @@
         "text": "overhauled"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -726,7 +920,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 67,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "Which of the following is not a constitutional limit on government power?",
     "choices": [
       {
@@ -746,9 +940,16 @@
         "text": "Presidential immunity"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -756,7 +957,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 68,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "In this case we are asked to reconsiderAustinv.Michigan Chamber of Commerce, 494 U.S. 652 (1990). It has been noted that “Austinwas a significant departure from ancient First Amendment principles.” We agree with that conclusion and hold thatstare decisisdoes not compel the continued  ofAustin.",
     "choices": [
       {
@@ -776,9 +977,16 @@
         "text": "acceptance"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -786,7 +994,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 69,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "In a civil case,   are a trivial sum of money awarded to a plaintiff whose legal right has been technically violated but who has not established that they are entitled to compensatory damages because there was no accompanying loss or harm.",
     "choices": [
       {
@@ -806,9 +1014,16 @@
         "text": "punitive damages"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -816,7 +1031,7 @@
     "year": 111,
     "subject_code": "4301",
     "question_no": 70,
-    "question_type": "single",
+    "question_type": "multiple",
     "stem": "A   is a ruling entered by a trial judge after determining that there is no legally sufficient evidentiary basis for a reasonable jury to reach a different conclusion.",
     "choices": [
       {
@@ -836,9 +1051,16 @@
         "text": "judgement notwithstanding the verdict"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]
